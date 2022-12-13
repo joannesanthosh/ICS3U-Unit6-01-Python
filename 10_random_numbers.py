@@ -27,7 +27,7 @@ def main():
     average = sum(my_numbers) / len(my_numbers)
     print("")
     print("The average is {0}".format(average))
-    
+
     print("\nDone.")
 
 
